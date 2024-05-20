@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  font-family: curvy;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  color: burlywood;
+}
+li {
+   margin: 10px;
+   
+}
