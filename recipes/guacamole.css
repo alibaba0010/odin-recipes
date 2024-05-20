@@ -1,0 +1,38 @@
+* {
+  padding: 5px;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  font-family: curvy;
+}
+h1,
+h2,
+h3,
+h4 {
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  color: burlywood;
+}
+img {
+  width: 240px;
+  border-radius: 20px;
+  border: 2px solid #3f49295f;
+}
+
+li,
+p {
+  margin: 3px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 14px;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  text-wrap: wrap;
+}
