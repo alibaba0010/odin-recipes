@@ -39,12 +39,14 @@ p {
   font-size: 20px;
   text-wrap: wrap;
 }
-.box{
+.box {
   display: flex;
   flex-direction: column;
   justify-content: center;
   border: 1px solid #889b5f5f;
   margin: 10px;
-  padding-left: 10px;
-background-color: aliceblue;
+  background-color: aliceblue;
+}
+.list {
+  padding-left: 20px;
 }
