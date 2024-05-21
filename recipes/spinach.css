@@ -45,11 +45,11 @@ p {
   justify-content: center;
   border: 1px solid #889b5f5f;
   margin: 10px;
+  border-radius: 20px;
   background-color: aliceblue;
 }
-li{
+li {
   padding-left: 10px;
-
 }
 .list {
   padding-left: 20px;
